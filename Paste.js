@@ -57,7 +57,7 @@ async function uploadToPastebin(input, title = 'Untitled', format = 'json', priv
         }
 
         const pasteId = pasteUrl.replace(/https?:\/\/[^/]+\//, '');
-        const customUrl = `GlobalTechInfo/MEGA-MD_${pasteId}`;
+        const customUrl = `Broken_vzn/X5-MD_${pasteId}`;
 
         console.log('✅ Session paste URL:', customUrl);
         return customUrl;
