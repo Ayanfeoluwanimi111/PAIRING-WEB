@@ -36,7 +36,7 @@ app.use('/', async (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`YoutTube: @GlobalTechInfo\nGitHub: @GlobalTechInfo\nServer running on http://localhost:${PORT}`);
+    console.log(`YoutTube: @brokenvzn-s7s?si=bp7Pw2oOvSC808C0\nGitHub: @Ayanfeoluwanimi111\nServer running on http://localhost:${PORT}`);
 });
 
 export default app;
